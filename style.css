@@ -68,4 +68,6 @@ li {
 
 aside {
 	background-color: #F7F7F7;
+	border-top: 5px solid #1098AD;
+	border-bottom: 5px solid #1098AD;
 }
