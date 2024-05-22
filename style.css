@@ -71,3 +71,7 @@ aside {
 	border-top: 5px solid #1098AD;
 	border-bottom: 5px solid #1098AD;
 }
+
+.first-li {
+	font-weight: bold;
+}
