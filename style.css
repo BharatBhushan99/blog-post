@@ -72,6 +72,11 @@ aside {
 	border-bottom: 5px solid #1098AD;
 }
 
+/*
 .first-li {
+	font-weight: bold;
+}*/
+
+li:first-child {
 	font-weight: bold;
 }
